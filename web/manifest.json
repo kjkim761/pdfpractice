@@ -1,0 +1,11 @@
+{
+    "name": "My PWA",
+    "icons": [
+      {
+        "src": "images/treeitem-collapsed.svg",
+        "sizes": "256x512"
+      }
+    ],
+    "start_url": "viewer.html",
+    "display": "s",
+}
