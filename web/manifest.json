@@ -14,7 +14,8 @@
             "url": "images/toolbarButton-print.svg",
             "icons": [
                 {
-                    "src": "images/toolbarButton-print.svg"
+                    "src": "images/toolbarButton-print.svg",
+                    "sizes": "96x96"
                 }
             ]
         }
