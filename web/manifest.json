@@ -3,7 +3,7 @@
     "icons": [
       {
         "src": "images/treeitem-collapsed.svg",
-        "sizes": "256x512"
+        "sizes": "256x256"
       }
     ],
     "start_url": "viewer.html",
