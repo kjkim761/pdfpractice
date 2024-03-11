@@ -11,7 +11,12 @@
     "shortcuts": [
         {
             "name": "My PWA",
-            "url": "images/toolbarButton-print.svg"
+            "url": "images/toolbarButton-print.svg",
+            "icons": [
+                {
+                    "src": "images/toolbarButton-print.svg"
+                }
+            ]
         }
     ] 
 }
